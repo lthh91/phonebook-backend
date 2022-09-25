@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c824179c.css","mappings":"AAAA,cACE,WACF,CAEA,YACE,SACF","sources":["index.css"],"sourcesContent":[".noti-success {\n  color: green;\n}\n\n.noti-error {\n  color: red;\n}\n"],"names":[],"sourceRoot":""}
